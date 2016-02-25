@@ -554,7 +554,7 @@ body {
     clear: both;
     width: 76.1437908496%;
     height: 67px;
-    margin: -67px 0 0 33.32823%;
+    margin: -90px 0 0 33.32823%;
 }
 
 .arrow-1 {
@@ -611,7 +611,11 @@ body {
 .container-2 {
     width: 23.8562091503%;
     height: 115px;
-    background-image: url('../images/location(2).png');
+    /*background-image: url('../images/location-small.png');*/
+}
+.container-2 > img{
+    width: auto;
+    height: auto;
 }
 
 .container-4 {
@@ -626,9 +630,12 @@ body {
     width: 35.8490566037%;
     height: 117px;
     margin-left: 3.76376%;
-    background-image: url('../images/telephone(3).png');
+    /*background-image: url('../images/telephone-small.png');*/
 }
-
+.container-5 > img{
+    width: auto;
+    height: auto;
+}
 .digest-1 {
     position: relative;
     float: left;
@@ -987,7 +994,7 @@ body {
 .text-7 {
     width: 54.716981132%;
     min-height: 66px;
-    margin: 86px 0 0 5.66038%;
+    margin: 29px 0 0 5.66038%;
     font-family: Oswald;
 }
 

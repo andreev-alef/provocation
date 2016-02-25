@@ -1,6 +1,6 @@
 body {
     background-color: rgb(0, 0, 0);
-    font: 400 1em/1.38 'Oswald Regular';
+    font: 400 1em/1.38 'Oswald-Regular';
     color: rgb(0, 0, 0);
 }
 
@@ -14,7 +14,7 @@ body {
     clear: both;
     z-index: 60;
     margin: -221px 0 0 49.75819%;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -268,7 +268,7 @@ body {
 
 .first-set .first-set {
     position: relative;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -281,7 +281,7 @@ body {
     width: 89.3039049235%;
     min-height: 78px;
     margin: -23px 0 0 8.48382%;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -407,7 +407,7 @@ body {
     width: 92.7272727272%;
     min-height: 78px;
     margin: -46px 0 0 21.27437%;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1.5em;
     color: rgb(0, 0, 0);
 }
@@ -447,7 +447,7 @@ body {
 
 .third-set .text {
     position: relative;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
 }
 
@@ -504,7 +504,7 @@ body {
     float: left;
     z-index: 61;
     margin: -27px 0 0 43px;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -539,7 +539,7 @@ body {
     float: left;
     z-index: 61;
     margin: -27px 0 0 18.54714%;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -995,7 +995,7 @@ body {
     width: 54.716981132%;
     min-height: 66px;
     margin: 29px 0 0 5.66038%;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
 }
 
 .vk-1 {
@@ -1236,7 +1236,7 @@ body {
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
     background-color: transparent;
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-style: inherit;
     font-size: 1.5em;
     font-weight: 200;
@@ -1349,7 +1349,7 @@ body {
 }
 
 .text-5 span {
-    font-family: Oswald;
+    font-family: Oswald-Bold;
     font-style: inherit;
     font-size: 1.5em;
     font-weight: 200;

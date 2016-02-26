@@ -19,31 +19,6 @@ body {
     color: rgb(0, 0, 0);
 }
 
-.about {
-    float: left;
-    width: 80px;
-    min-height: 20px;
-    margin-left: 590px;
-    padding: 10px 20px 20px;
-    font-family: Oswald-Regular;
-    font-size: 1em;
-    font-weight: normal;
-    color: rgb(0, 0, 0);
-}
-
-.products {
-    float: left;
-    width: 100px;
-    min-height: 20px;
-    padding: 10px 20px 20px;
-    font-family: Oswald-Regular;
-    font-size: 1em;
-    font-weight: normal;
-    color: rgb(0, 0, 0);
-}
-
-
-
 .arrow {
     position: relative;
     min-height: 169px;
@@ -69,15 +44,85 @@ body {
     text-align: center;
     color: rgb(0, 0, 0);
 }
-
-.main_menu{
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: auto;
-    margin-right: auto;
+/*vvvvvvvvvvvvvvvvvvvvvvvvvvvvv Top menu vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv*/
+.wrapper-main_menu{
     width: 100%;
+    height: 42px;
+    text-align: center;
     display: inline-block;
+    position: fixed;
+    background-color: rgba(222,222,222,1);
 }
+.main_menu{
+    display: inline-block;
+    position: absolute;
+    width: 800px;
+    height: 22px;
+    top: 50%;
+    left: 50%;
+    margin-top: -11px;
+    margin-left: -400px;
+    background-color: transparent;
+    /*border: 1px solid #000;*/
+}
+.main_menu > .main_menu_item{
+    display: inline-block;
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.main_menu_item > a{
+    color: #000;
+}
+.main_menu_item > a:hover{
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+.main_menu-about {
+    /*    float: left;
+        width: 80px;
+        min-height: 20px;
+        margin-left: 590px;
+        padding: 10px 20px 20px;
+        font-family: Oswald-Regular;
+        font-size: 1em;
+        font-weight: normal;
+        color: rgb(0, 0, 0);*/
+}
+
+.main_menu-products {
+    /*    float: left;
+        width: 100px;
+        min-height: 20px;
+        padding: 10px 20px 20px;
+        font-family: Oswald-Regular;
+        font-size: 1em;
+        font-weight: normal;
+        color: rgb(0, 0, 0);*/
+}
+
+.main_menu-portfolio{
+    /*    width: 80px;
+        min-height: 20px;
+        padding: 10px 20px 20px;
+        font-family: Oswald-Regular;
+        font-size: 1em;
+        font-weight: normal;
+        color: rgb(0, 0, 0);*/
+}
+
+.main_menu-connect{
+    /*    clear: both;
+        margin-top: 52px;
+        margin-left: 4.12879%;*/
+}
+
+.main_menu-email{
+    /*    margin-top: 52px;
+        margin-left: 3.05613%;*/
+}
+/*vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv*/
 
 .bd {
     display: block;
@@ -834,15 +879,7 @@ body {
     margin-left: 8.5%;
 }
 
-.portfolio-1 {
-    width: 80px;
-    min-height: 20px;
-    padding: 10px 20px 20px;
-    font-family: Oswald-Regular;
-    font-size: 1em;
-    font-weight: normal;
-    color: rgb(0, 0, 0);
-}
+
 
 .portfolio-2 {
     position: relative;
@@ -2011,16 +2048,9 @@ body {
         min-height: 76px;
     }
 
-    ._container .connect-1 {
-        clear: both;
-        margin-top: 52px;
-        margin-left: 4.12879%;
-    }
 
-    ._container .email-1 {
-        margin-top: 52px;
-        margin-left: 3.05613%;
-    }
+
+
 
     ._container .portfolio-1 {
         clear: both;

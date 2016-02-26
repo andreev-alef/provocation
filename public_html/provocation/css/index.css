@@ -48,7 +48,6 @@ body {
     z-index: 2000;
     width: 100%;
     height: 42px;
-	z-index:100;
     text-align: center;
     display: inline-block;
     position: fixed;
@@ -64,7 +63,6 @@ body {
     margin-top: -11px;
     margin-left: -400px;
     background-color: transparent;
-    /*border: 1px solid #000;*/
 }
 .main_menu > .main_menu_item{
     display: inline-block;

@@ -42,7 +42,7 @@ body {
 .arrow-caption {
     float: left;
     padding: 40px 20px 20px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -51,7 +51,7 @@ body {
 .arrow1-caption {
     float: left;
     padding: 20px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -82,7 +82,7 @@ body {
     width: 100%;
     min-height: 100px;
     padding: 40px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     color: rgb(0, 0, 0);
 }
@@ -305,7 +305,7 @@ body {
     min-height: 100px;
     margin-left: 10.68561%;
     padding: 50px 4px 4px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -328,7 +328,7 @@ body {
     width: 98.6577181208%;
     min-height: 49px;
     margin: 150px 0 0 0.66573%;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -341,7 +341,7 @@ body {
     padding-right: 100px;
     padding-bottom: 60px;
     padding-left: 100px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -458,7 +458,7 @@ body {
 .vk .vk {
     width: 100%;
     min-height: 38px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 0.75em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -484,7 +484,7 @@ body {
     float: left;
     width: 100%;
     padding: 20px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(0, 0, 0);
@@ -648,7 +648,7 @@ body {
     width: 78.6255878683%;
     min-height: 100px;
     padding: 50px 4px 4px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -978,7 +978,7 @@ body {
     min-height: 178px;
     margin-left: 11.66667%;
     padding: 50px 100px;
-    font-family: Helvetica;
+    font-family: Oswald-Regular;
     font-size: 1em;
     text-align: center;
 }

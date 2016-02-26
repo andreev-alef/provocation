@@ -12,7 +12,6 @@ body {
     position: relative;
     float: left;
     clear: both;
-    z-index: 60;
     margin: -221px 0 0 49.75819%;
     font-family: Oswald-Bold;
     font-size: 1em;
@@ -48,6 +47,7 @@ body {
 .wrapper-main_menu{
     width: 100%;
     height: 42px;
+	z-index:100;
     text-align: center;
     display: inline-block;
     position: fixed;
@@ -231,7 +231,6 @@ body {
     position: relative;
     float: left;
     clear: both;
-    z-index: 45;
     width: 100%;
     /*margin-top: -450px;*/
     margin-top: 0px;
@@ -344,7 +343,6 @@ body {
     position: relative;
     float: left;
     clear: both;
-    z-index: 89;
     width: 89.3039049235%;
     min-height: 78px;
     margin: -23px 0 0 8.48382%;
@@ -461,7 +459,6 @@ body {
     position: relative;
     float: left;
     clear: both;
-    z-index: 59;
     width: 92.7272727272%;
     min-height: 78px;
     margin: -46px 0 0 21.27437%;
@@ -560,7 +557,6 @@ body {
 ._1 {
     position: relative;
     float: left;
-    z-index: 61;
     margin: -27px 0 0 43px;
     font-family: Oswald-Bold;
     font-size: 1em;
@@ -595,7 +591,6 @@ body {
 ._2 {
     position: relative;
     float: left;
-    z-index: 61;
     margin: -27px 0 0 18.54714%;
     font-family: Oswald-Bold;
     font-size: 1em;
@@ -618,7 +613,6 @@ body {
 .arrow-1 {
     float: left;
     clear: both;
-    z-index: 110;
     width: 130px;
     min-width: 130px;
     margin: 120px 0 0 17%;
@@ -627,7 +621,6 @@ body {
 
 .arrow-2 {
     float: right;
-    z-index: 108;
     width: 130px;
     margin: 120px 44.4987% 0 0;
     background-size: contain;
@@ -636,7 +629,6 @@ body {
 .arrow-3 {
     float: left;
     clear: both;
-    z-index: 106;
     width: 10.9166666666%;
     margin: -169px 0 0 72.08203%;
     background-size: contain;
@@ -660,7 +652,6 @@ body {
 .container-1 {
     position: relative;
     clear: both;
-    z-index: 6;
     width: 25.5%;
     height: 117px;
     margin: 110px 0 0 16%;
@@ -678,7 +669,6 @@ body {
 
 .container-4 {
     position: relative;
-    z-index: 2;
     width: 26.5%;
     height: 117px;
     margin: 110px 0 0 16%;
@@ -697,7 +687,6 @@ body {
 .digest-1 {
     position: relative;
     float: left;
-    z-index: 13;
     width: 40.6666666666%;
     margin-left: 1.79948%;
 }
@@ -727,37 +716,31 @@ body {
 }
 
 .first-set-2 {
-    z-index: 90;
     margin: -42px 0 0 2.15054%;
 }
 
 .first-set-3 {
     clear: both;
-    z-index: 91;
     margin: -242px 0 0 32.59248%;
 }
 
 .item-1 {
     clear: both;
-    z-index: 86;
     width: 34%;
     min-height: 60px;
     margin-left: 12.41146%;
 }
 
 .item-10 {
-    z-index: 55;
     margin: 17px 0 0 8.19271%;
 }
 
 .item-11 {
     clear: both;
-    z-index: 51;
     margin: 16px 0 0 11.96615%;
 }
 
 .item-12 {
-    z-index: 57;
     margin: 17px 0 0 8.19922%;
 }
 
@@ -767,25 +750,21 @@ body {
 
 .item-14 {
     position: relative;
-    z-index: 35;
     margin: 10px 0 0 18.98438%;
 }
 
 .item-15 {
     position: relative;
-    z-index: 37;
     margin: 10px 0 0 0.7487%;
 }
 
 .item-16 {
     position: relative;
     clear: both;
-    z-index: 39;
     margin: -137px 0 0 68.00391%;
 }
 
 .item-2 {
-    z-index: 80;
     width: 35.9166666666%;
     min-height: 60px;
     margin-left: 7%;
@@ -793,14 +772,12 @@ body {
 
 .item-3 {
     clear: both;
-    z-index: 84;
     width: 34%;
     min-height: 60px;
     margin: 14px 0 0 12.41146%;
 }
 
 .item-4 {
-    z-index: 78;
     width: 36%;
     min-height: 60px;
     margin: 14px 0 0 7%;
@@ -808,14 +785,12 @@ body {
 
 .item-5 {
     clear: both;
-    z-index: 82;
     width: 34%;
     min-height: 60px;
     margin: 14px 0 0 12.41146%;
 }
 
 .item-6 {
-    z-index: 76;
     width: 36%;
     height: 61px;
     margin: 14px 0 0 7%;
@@ -823,18 +798,15 @@ body {
 
 .item-7 {
     clear: both;
-    z-index: 47;
     margin: 25px 0 0 11.96615%;
 }
 
 .item-8 {
-    z-index: 53;
     margin: 25px 0 0 8.19271%;
 }
 
 .item-9 {
     clear: both;
-    z-index: 49;
     margin: 17px 0 0 11.96615%;
 }
 
@@ -874,7 +846,6 @@ body {
 .knowmore-1 {
     position: relative;
     clear: both;
-    z-index: 17;
     width: 40.69921875%;
     margin-left: 8.5%;
 }
@@ -884,7 +855,6 @@ body {
 .portfolio-2 {
     position: relative;
     clear: both;
-    z-index: 50;
     width: 100%;
     min-height: 300px;
     margin-top: 0px;
@@ -906,7 +876,6 @@ body {
 
 .product-2 {
     position: relative;
-    z-index: 98;
     min-height: 160px;
     margin: 9px 0 0 16.87779%;
 }
@@ -914,7 +883,6 @@ body {
 .product-3 {
     position: relative;
     clear: both;
-    z-index: 96;
     height: 160px;
     margin: -133px 0 0 56.55413%;
 }
@@ -926,7 +894,6 @@ body {
 
 .product-5 {
     position: relative;
-    z-index: 70;
     width: 160px;
     min-height: 160px;
     margin: 175px 0 0 29.04427%;
@@ -944,7 +911,6 @@ body {
 
 .product-9 {
     position: relative;
-    z-index: 66;
     width: 160px;
     min-height: 160px;
     margin: 9px 0 0 0.71224%;
@@ -1004,13 +970,11 @@ body {
     font-size: 120px;
 }
 .text-2 {
-    z-index: 40;
     margin-left: 4.87733%;
 }
 
 .text-3 {
     clear: both;
-    z-index: 42;
     width: 91.8367346938%;
     min-height: 79px;
     margin: -32px 0 0 8.13678%;
@@ -1018,7 +982,6 @@ body {
 
 .text-4 {
     clear: both;
-    z-index: 41;
     margin: -235px 0 0 39.57568%;
 }
 
@@ -1081,21 +1044,18 @@ body {
 .website-1 {
     position: relative;
     clear: both;
-    z-index: 23;
     width: 18%;
     margin: 8px 0 0 8.57943%;
 }
 
 .website-2 {
     position: relative;
-    z-index: 27;
     width: 15%;
     margin: 1px 0 0 5.41797%;
 }
 
 .website-3 {
     position: relative;
-    z-index: 25;
     width: 18%;
     margin: 1px 0 0 5.98698%;
 }
@@ -1536,7 +1496,6 @@ body {
 
     .deptdesign {
         position: relative;
-        z-index: 45;
         /*margin-top: -175px;*/
         margin-top: 0px;
     }
@@ -1565,7 +1524,6 @@ body {
 
     .deptweb {
         position: relative;
-        z-index: 74;
     }
 
     .deptweb .deptweb-offer {
@@ -1595,7 +1553,6 @@ body {
 
     .first-set .first-set-caption {
         position: relative;
-        z-index: 89;
         width: 102.7371887219%;
         margin-top: -31px;
         margin-left: 15.15247%;
@@ -1633,21 +1590,18 @@ body {
 
     .second-set ._3 {
         position: relative;
-        z-index: 60;
         margin-top: -237px;
         margin-left: 43.82396%;
     }
 
     .second-set .second-setcapture {
         position: relative;
-        z-index: 59;
         margin-top: -30px;
         margin-left: 7.24638%;
     }
 
     .tetris {
         position: relative;
-        z-index: 9;
         margin-top: -3222px;
         padding-top: 100px;
     }
@@ -1692,27 +1646,23 @@ body {
 
     .second-set ._2 {
         position: relative;
-        z-index: 61;
         margin-top: 0;
         margin-left: 0;
     }
 
     .arrow-1 {
-        z-index: 110;
         width: 90px;
         margin-top: 110px;
         background-size: contain;
     }
 
     .arrow-2 {
-        z-index: 108;
         min-height: 170px;
         margin-top: 110px;
         margin-right: 42.77257%;
     }
 
     .arrow-3 {
-        z-index: 106;
         width: 130px;
         margin-left: 68.22049%;
     }
@@ -1729,39 +1679,31 @@ body {
 
     .container-1 {
         position: relative;
-        z-index: 6;
         margin-top: 729px;
     }
 
     .container-4 {
         position: relative;
-        z-index: 2;
     }
 
     .deptcomplexmarketing .item-1 {
-        z-index: 86;
     }
 
     .deptcomplexmarketing .item-2 {
-        z-index: 80;
         margin-left: 6.91146%;
     }
 
     .deptcomplexmarketing .item-3 {
-        z-index: 84;
     }
 
     .deptcomplexmarketing .item-4 {
-        z-index: 78;
         margin-left: 6.82813%;
     }
 
     .deptcomplexmarketing .item-5 {
-        z-index: 82;
     }
 
     .deptcomplexmarketing .item-6 {
-        z-index: 76;
         margin-left: 6.91146%;
     }
 
@@ -1780,7 +1722,6 @@ body {
 
     .deptcomplexmarketing-products .product-1 {
         position: relative;
-        z-index: 100;
         height: 120px;
         min-height: 0;
         margin-top: 30px;
@@ -1789,7 +1730,6 @@ body {
 
     .deptcomplexmarketing-products .product-2 {
         position: relative;
-        z-index: 98;
         height: 120px;
         min-height: 0;
         margin-top: 10px;
@@ -1798,7 +1738,6 @@ body {
 
     .deptcomplexmarketing-products .product-3 {
         position: relative;
-        z-index: 96;
         height: auto;
         min-height: 120px;
         margin-top: -108px;
@@ -1817,7 +1756,6 @@ body {
     }
 
     .deptdesign-products .item-13 {
-        z-index: 33;
         height: 120px;
         min-height: 0;
         margin-top: 41px;
@@ -1825,62 +1763,53 @@ body {
     }
 
     .deptdesign-products .item-14 {
-        z-index: 35;
         height: 120px;
         min-height: 0;
         margin-left: 17.11285%;
     }
 
     .deptdesign-products .item-15 {
-        z-index: 37;
         height: 120px;
         min-height: 0;
         margin-left: 1.32813%;
     }
 
     .deptdesign-products .item-16 {
-        z-index: 39;
         min-height: 120px;
         margin-top: -90px;
         margin-left: 65.66146%;
     }
 
     .deptweb .item-10 {
-        z-index: 55;
         height: 0;
         margin-top: 14px;
         margin-left: 8.54688%;
     }
 
     .deptweb .item-11 {
-        z-index: 51;
         height: 0;
         margin-top: 14px;
         margin-left: 11.72396%;
     }
 
     .deptweb .item-12 {
-        z-index: 57;
         height: 0;
         margin-top: 14px;
         margin-left: 8.54514%;
     }
 
     .deptweb .item-7 {
-        z-index: 47;
         height: 0;
         margin-top: 0;
         margin-left: 11.72396%;
     }
 
     .deptweb .item-8 {
-        z-index: 53;
         margin-top: 0;
         margin-left: 8.54514%;
     }
 
     .deptweb .item-9 {
-        z-index: 49;
         height: 0;
         margin-top: 14px;
         margin-left: 11.72396%;
@@ -1901,7 +1830,6 @@ body {
 
     .deptweb-products .product-5 {
         position: relative;
-        z-index: 70;
         width: 120px;
         height: 120px;
         min-height: 0;
@@ -1919,7 +1847,6 @@ body {
 
     .deptweb-products .product-9 {
         position: relative;
-        z-index: 66;
         width: 120px;
         height: 120px;
         min-height: 0;
@@ -1943,17 +1870,14 @@ body {
 
     .digest-1 {
         position: relative;
-        z-index: 13;
     }
 
     .first-set .first-set-2 {
-        z-index: 90;
         margin-top: 5px;
         margin-left: 0;
     }
 
     .first-set .first-set-3 {
-        z-index: 91;
         margin-top: -235px;
         margin-left: 37.07157%;
     }
@@ -1965,37 +1889,31 @@ body {
 
     .knowmore-1 {
         position: relative;
-        z-index: 17;
     }
 
     .portfolio .website-1 {
-        z-index: 23;
         margin-top: 4px;
         margin-left: 7.5%;
     }
 
     .portfolio .website-2 {
-        z-index: 27;
         width: 16%;
         margin-top: -8px;
         margin-left: 4.93924%;
     }
 
     .portfolio .website-3 {
-        z-index: 25;
         margin-top: 0;
         margin-left: 4.55903%;
     }
 
     .portfolio .website-4 {
-        z-index: 29;
         width: 19.8888888888%;
         margin-left: 3.60938%;
     }
 
     .portfolio-2 {
         position: relative;
-        z-index: 30;
         min-height: 180px;
         margin-top: 0px;
     }
@@ -2027,19 +1945,16 @@ body {
     }
 
     .third-set .text-2 {
-        z-index: 40;
         margin-top: -33px;
         margin-left: 4.08351%;
     }
 
     .third-set .text-3 {
-        z-index: 42;
         margin-top: -37px;
         margin-left: 4.08351%;
     }
 
     .third-set .text-4 {
-        z-index: 41;
         margin-top: -226px;
         margin-left: 47.51182%;
     }

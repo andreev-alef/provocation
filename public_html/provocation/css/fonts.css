@@ -16,6 +16,7 @@ and open the template in the editor.
     font-family: 'Oswald-BoldItalic';
     src:    url('../fonts/Oswald-BoldItalic.woff');
 }
+/*
 @font-face{
     font-family: 'Oswald-Demi-BoldItalic';
     src:    url('../fonts/Oswald-Demi-BoldItalic.woff');
@@ -56,6 +57,7 @@ and open the template in the editor.
     font-family: 'Oswald-MediumItalic';
     src:    url('../fonts/Oswald-MediumItalic.woff');
 }
+*/
 @font-face{
     font-family: 'Oswald-Regular';
     src:    url('../fonts/Oswald-Regular.woff');
@@ -64,7 +66,9 @@ and open the template in the editor.
     font-family: 'Oswald-RegularItalic';
     src:    url('../fonts/Oswald-RegularItalic.woff');
 }
+/*
 @font-face{
     font-family: 'Oswald-Stencil';
     src:    url('../fonts/Oswald-Stencil.woff');
 }
+*/

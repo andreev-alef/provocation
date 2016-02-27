@@ -437,9 +437,10 @@ header{
 .porfolioheader {
     /*float: left;*/
     min-height: 64px;
+    margin-bottom: 87px;
     /*margin-left: 25.5%;*/
     /*padding-right: 100px;*/
-    padding-bottom: 60px;
+    /*padding-top: 60px;*/
     /*padding-left: 100px;*/
     font-family: Oswald-Regular;
     font-size: 1em;
@@ -1274,7 +1275,7 @@ header{
     font-size: 1.5em;
     font-weight: bold;
     color: rgb(255, 255, 255);
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
     width: 800px;

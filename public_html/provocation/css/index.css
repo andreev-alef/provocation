@@ -4,6 +4,17 @@ body {
     color: rgb(0, 0, 0);
 }
 
+.wrapper-content{
+    max-width: 1200px;
+    height: 7100px;
+    border: 1px solid yellow;
+}
+.wrapper-content-item{
+    width: 100%;
+    height: auto;
+    border: 1px solid #ff0000;
+}
+
 .provocationinfo-2 p {
     margin-bottom: 1em;
 }

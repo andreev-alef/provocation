@@ -21,7 +21,7 @@ header{
 }
 .wrapper-content-item{
     width: 100%;
-    min-height: 600px;
+    height: 600px;
     border: 1px dashed #ff0000;
 }
 
@@ -36,6 +36,9 @@ header{
 }
 .wrapper-content-item:nth-child(4){
     
+}
+.wrapper-content-item:nth-child(5){
+    height: 490px;
 }
 
 .provocationinfo-2 p {

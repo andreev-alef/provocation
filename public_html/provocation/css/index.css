@@ -13,7 +13,7 @@ header{
 
 .wrapper-content{
     max-width: 1200px;
-    height: 6850px;
+    height: 6970px;
     border: 1px dashed yellow;
 }
 .wrapper-content *{
@@ -39,6 +39,12 @@ header{
 }
 .wrapper-content-item:nth-child(5){
     height: 490px;
+}
+.wrapper-content-item:nth-child(6){
+    height: 1060px;
+}
+.wrapper-content-item:nth-child(7){
+    height: 720px;
 }
 
 .provocationinfo-2 p {

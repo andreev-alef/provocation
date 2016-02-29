@@ -18,12 +18,12 @@ and open the template in the editor.
 }
 /*
 @font-face{
-    font-family: 'Oswald-Demi-BoldItalic';
-    src:    url('../fonts/Oswald-Demi-BoldItalic.woff');
-}
-@font-face{
     font-family: 'Oswald-DemiBold';
     src:    url('../fonts/Oswald-DemiBold.woff');
+}
+@font-face{
+    font-family: 'Oswald-Demi-BoldItalic';
+    src:    url('../fonts/Oswald-Demi-BoldItalic.woff');
 }
 @font-face{
     font-family: 'Oswald-Extra-LightItalic';

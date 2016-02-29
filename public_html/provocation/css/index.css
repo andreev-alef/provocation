@@ -49,13 +49,18 @@
 
     .content-item{
         max-width: 100%;
-        margin-left: auto;
-        margin-right: auto;
     }
-    .content-item > *{
+    .head > div, .foot > div{
         max-width: 1200px;
         margin-left: auto;
         margin-right: auto;
+    }
+    
+    .block-provocationinfo > .head{
+        background-image: url('../images/substrate_6(2).jpg');
+    }
+    .block-deptcomplexmarketing > .head{
+        background-image: url('../images/substrate_2.jpeg');
     }
 
     .provocationinfo-2 p {
@@ -242,16 +247,16 @@
         /*margin-top: 90px;*/
     }
 
-    .deptcomplexmarketing .item {
+    .block-deptcomplexmarketing .item {
         position: static;
         background-color: rgb(222, 222, 222);
     }
 
-    .deptcomplexmarketing .itemcaption {
+    .block-deptcomplexmarketing .itemcaption {
         width: 100%;
     }
 
-    .deptcomplexmarketing .text {
+    .block-deptcomplexmarketing .text {
         clear: both;
         margin: 1px 0 0 49.41667%;
         font-size: 1em;
@@ -269,13 +274,13 @@
     }
 
     .deptcomplexmarketing-products {
-        float: left;
+        /*float: left;*/
         width: 100%;
         padding: 40px 40px 60px;
     }
 
     .deptcomplexmarketing-products-bg{
-        background: url('../images/substrate_2.jpeg') rgb(222, 222, 222);
+        /*background: url('../images/substrate_2.jpeg') rgb(222, 222, 222);*/
         background-size: cover;
         background-position: left top;        
     }
@@ -998,12 +1003,12 @@
         margin-top: 194px;
         padding: 120px 150px 150px 180px;
     }
-    .provocationinfo-1-background{
+/*    .provocationinfo-1-background{
         background-image: url('../images/substrate_6(2).jpg');
         background-size: auto auto;
         background-position: left top;
 
-    }
+    }*/
 
     .provocationinfo-2 {
         background-color: rgb(0, 0, 0);

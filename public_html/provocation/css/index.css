@@ -27,22 +27,22 @@
         border: 1px dashed #ff0000;
     }
 
-    .wrapper-content-item.block-provocationinfo{
+    .block-provocationinfo{
         height: 1210px;
     }
     .block-deptcomplexmarketing{
         height: 1474px;
     }
-    .wrapper-content-item.block-deptweb{
+    .block-deptweb{
         height: 1403px;
     }
-    .wrapper-content-item.block-deptdesign{
+    .block-deptdesign{
         height: 1100px;
     }
-    .wrapper-content-item.block-believeoffer{
+    .block-believeoffer{
         height: 1100px;
     }
-    .wrapper-content-item.block-contacts{
+    .block-contacts{
         height: 727px;
     }
     
@@ -61,6 +61,12 @@
     }
     .block-deptcomplexmarketing > .head{
         background-image: url('../images/substrate_2.jpeg');
+    }
+    .block-deptweb > .head{
+        background-image: url('../images/4.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: left top;
     }
 
     .provocationinfo-2 p {
@@ -345,7 +351,7 @@
     }
 
     .deptweb-offer {
-        float: left;
+        /*float: left;*/
         clear: both;
         width: 70%;
         min-height: 152px;
@@ -357,14 +363,14 @@
     }
 
     .deptweb-products {
-        float: left;
+        /*float: left;*/
         width: 100%;
         min-height: 600px;
         padding-top: 10px;
-        background: url('../images/4.jpg') rgb(222, 222, 222);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: left top;
+        /*background: url('../images/4.jpg') rgb(222, 222, 222);*/
+        /*background-repeat: no-repeat;*/
+        /*background-size: cover;*/
+        /*background-position: left top;*/
     }
 
     .digest .digest {
@@ -586,7 +592,7 @@
     }
 
     .want-button {
-        float: left;
+        /*float: left;*/
     }
 
     .want-button .want-button {
@@ -1099,9 +1105,9 @@
 
     .want-button-3 {
         clear: both;
-        width: 18.5833333333%;
+        width: 233px;
         height: 75px;
-        margin: 80px 0 0 40.66667%;
+        /*margin: 80px 0 0 40.66667%;*/
         background-color: #fffb28;
     }
 
